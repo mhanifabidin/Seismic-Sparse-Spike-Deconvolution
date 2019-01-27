@@ -1,10 +1,10 @@
 % matlab script to demonstrate regularized inversion 
 % to enhance timing accuracy (spiking) for 
 % wedge response 
-% 27/03/2007, Philippe Steeghs 
-% 
 % -------------------------------------------------------------------------
 %
+
+
 clearvars
 addpath('/Users/hanif/Documents/MATLAB/Sparse_decon','/Users/hanif/Documents/MATLAB/Sparse_decon/SegyMAT','/Users/hanif/Documents/MATLAB/Sparse_decon/SegyMAT/GUI');
 seisfile = '610135_803007_h_NLmean_9_9_0_0015';
