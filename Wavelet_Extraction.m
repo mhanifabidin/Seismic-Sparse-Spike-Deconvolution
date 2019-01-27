@@ -1,8 +1,12 @@
 clear,clc
 clearvars;
 fclose('all');
+
+%change to your directory
 addpath('C:\Matlab\Sparse_decon','C:\Matlab\Sparse_decon\SegyMAT','C:\Matlab\Sparse_decon\SegyMAT\GUI');
 %parpool('local',4);
+
+
 % Input Seismic Data
 
 seisfile = '99_GNL91-112_PSTM_r6000_noAA_cdp3500-3800'; 
