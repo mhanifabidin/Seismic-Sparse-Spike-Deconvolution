@@ -1,6 +1,6 @@
 % matlab script to demonstrate regularized inversion 
 % to enhance timing accuracy (spiking) for 
-% wedge response 
+% wedge response and increase seismic resolution
 % -------------------------------------------------------------------------
 %
 
